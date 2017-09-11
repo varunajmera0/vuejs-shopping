@@ -9,7 +9,8 @@
 > Some Code In Vuetify (like slider/login/sign up)
 > <a href="vuetifyjs.com/vuetify/quick-start">Vuetify</a>
 
-> Create Database In Firebase Database and add given detail in main.js file using firebase databse
+> Create Database In Firebase Database and add given detail in main.js file using firebase databse.
+
    firebase.initializeApp({
       apiKey: '',
       authDomain: '',
