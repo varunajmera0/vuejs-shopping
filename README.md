@@ -19,7 +19,7 @@
       storageBucket: ''
     })
 
-# This website contain admin part. So You can add categories and add products accroding to categories. You can also add slider. 
+# This website contains admin part. So You can add categories and add products accroding to categories. You can also add slider. 
 # Sign up And Sign In the help of Firebase.
 # Add to Cart
 
