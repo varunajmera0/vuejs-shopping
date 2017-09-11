@@ -9,7 +9,7 @@
 > Some Code In Vuetify (like slider/login/sign up)
 > <a href="vuetifyjs.com/vuetify/quick-start">Vuetify</a>
 
-> Create Database In Firebase and add given detail in main.js file using firebase databse
+> Create Database In Firebase Database and add given detail in main.js file using firebase databse
    firebase.initializeApp({
       apiKey: '',
       authDomain: '',
@@ -17,6 +17,10 @@
       projectId: '',
       storageBucket: ''
     })
+
+# This website contain admin part. So You can add categories and add products accroding to categories. You can also add slider. 
+# Sign up And Sign In the help of Firebase.
+# Add to Cart
 
 ## Build Setup
 
