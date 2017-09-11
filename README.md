@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+> It's just experiment.
+
+> <a href="https://vue-shopping.firebaseapp.com/">Shopping Cart</a>
+
 ## Build Setup
 
 ``` bash
